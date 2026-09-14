@@ -1,16 +1,14 @@
-## Hi there 👋
+# Здравствуйте, я Дмитрий 👋
 
-<!--
-**Alzheimer079/Alzheimer079** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Студент 1 курса НГУ, ИИР (мехатроника и робототехника).
+Выпускник ЧУДО НАДИП, специальность «Программист C#».
 
-Here are some ideas to get you started:
+Пишу на Python: скрипты для рутины, обработка таблиц, простые парсеры.
+Английский — EF SET 72/100 (C2 Reading & Listening).
+Использую DeepSeek для черновиков и генерации кода.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Проекты
+
+## Контакты
+- Telegram: @Alzheimer079
+- Email: d.fedoseev@g.nsu.ru
